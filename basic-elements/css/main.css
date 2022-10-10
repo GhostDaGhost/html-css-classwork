@@ -74,3 +74,15 @@ body {
 .main_paragraphtext {
     font-family: Arial, sans-serif;
 }
+
+#main_blockquote {
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+#footer_container {
+    font-family: Arial, sans-serif;
+    color: white;
+
+    margin-top: 1.55%;
+}
